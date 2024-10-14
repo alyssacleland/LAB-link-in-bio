@@ -5,10 +5,10 @@ body {
 .custom-flex-row {
   display: flex; 
   justify-content: center;
-  padding: 20px;
+  margin: 20px;
 }
 
-.btn-primary {
+.adj-padding {
   margin-left: 20px;
 }
 
